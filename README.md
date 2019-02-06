@@ -5,9 +5,12 @@ Dosya düzenleyicisi , Dağınık çalışan arkadaşlar için çalıştıktıla
 #### Çalıştırmak için : python3 organizer.py
 denildikten sonra düzenlenmesini istediğiniz dizinin path'ini verin. Örneğin /home/user/Desktop gibi
 
+Örnek çalışma videosu : organizer.mkv
 -------------------------------------------------------------------------------------------------------
 
 The file editor is a utility for working with scattered friends, and is a utility to index the files in the directory by type.
 
 #### To run: python3 organizer.py
 the path of the array that can be edited after the statement. Set like /home/user/Desktop
+
+#### sample working video : organizer.mkv
