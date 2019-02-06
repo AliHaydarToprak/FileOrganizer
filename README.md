@@ -2,7 +2,7 @@
 
 Dosya düzenleyicisi , Dağınık çalışan arkadaşlar için çalıştıktıları dizinde bulunan dosyaları türlerine göre dizinlendirmek için yazılmış yardımcı programdır.
 
-Çalıştırmak için : python3 organizer.py
+####Çalıştırmak için : python3 organizer.py
 denildikten sonra düzenlenmesini istediğiniz dizinin path'ini verin. Örneğin /home/user/Desktop gibi
 
 -------------------------------------------------------------------------------------------------------
